@@ -1,1 +1,1 @@
-# $${\color{#C8102E} \text{**G**eospatial Laboratory for Soil Informatics (GLSI)}}$$
+# $${\color{#C8102E} \text{Geospatial Laboratory for Soil Informatics (GLSI)}}$$
