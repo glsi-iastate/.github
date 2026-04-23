@@ -1,6 +1,5 @@
 <div align="center">
   
-# $${\color{#C8102E} \textbf{Geospatial Laboratory for Soil Informatics (GLSI)}}$$
----------------------------------------
+# $${\Huge\color{#C8102E}\textbf{\text{Geospatial Laboratory for Soil Informatics (GLSI)}}}$$
 
 </div>
