@@ -1,2 +1,2 @@
 # Geospatial Laboratory for Soil Informatics (GLSI)
-# $${\color{red} Geospatial Laboratory for Soil Informatics}$$
+# $${\color{red} \text{Geospatial Laboratory for Soil Informatics}}$$
