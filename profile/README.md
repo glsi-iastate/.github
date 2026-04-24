@@ -25,12 +25,12 @@
     </a>
     <ul>
       <li>
-        <a href="#colorc8102etextpython">
-          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">Python</span>
+        <a href="#colorc8102etextbfglsipy">
+          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">GLSIpy</span>
         </a>
       </li>
       <li>
-        <a href="#colorc8102etextr">
+        <a href="#colorc8102etextbfr">
           <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">R</span>
         </a>
       </li>
@@ -59,9 +59,12 @@
 
 </div>
 
-### $${\color{#C8102E}\text{Python}}$$
+### $${\color{#C8102E}\textbf{GLSIpy}}$$
 
-### $${\color{#C8102E}\text{R}}$$
+#### $${\color{#C8102E}\textbf{GLSIpy}}$$
+
+
+### $${\color{#C8102E}\textbf{R}}$$
 
 
 
