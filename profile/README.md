@@ -11,7 +11,7 @@
 <ul>
   <li>
     <a href="#colorc8102etextbfintroduction">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Introduction</span>
+      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Introduction</span>
     </a>
   </li>
 
@@ -19,7 +19,7 @@
   
   <li>
     <a href="#colorc8102etextbfpackages-and-toolboxes">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Packages and Toolboxes</span>
+      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Packages and Toolboxes</span>
     </a>
     <ul>
       <li>
@@ -39,7 +39,7 @@
   
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/projects">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Projects</span>
+      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Projects</span>
     </a>
   </li>
 
@@ -47,7 +47,7 @@
   
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/resources">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Resources</span>
+      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Resources</span>
     </a>
     <ul>
       <li>
@@ -67,7 +67,7 @@
   
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/contact">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Contact</span>
+      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Contact</span>
     </a>
   </li>
 </ul>
