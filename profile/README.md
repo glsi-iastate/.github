@@ -8,15 +8,6 @@
 </div>
 
 
-<li>
-<svg viewBox="0 0 400 80">
-<a href="#colorc8102etextbfintroduction">
-<text font-size="52" fill="#C8102E" font-weight="bold" x="50%" y="60%" text-anchor="middle" dominant-baseline="middle">Introduction</text>
-</a>
-</svg>
-</li>
-
-
 
 <!-- Introduction -->
 <ul>
@@ -82,6 +73,8 @@
     </a>
   </li>
 </ul>
+
+
 
 <div align="center">
 
