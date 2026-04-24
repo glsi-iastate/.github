@@ -40,45 +40,20 @@
   <!-- Projects -->
   
   <li>
-    <a href="https://github.com/glsi-iastate/.github/blob/main/profile/projects">
+    <a href="#colorc8102etextbfprojects">
       <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Projects</span>
     </a>
   </li>
-
-  <!-- Resources -->
-  
-  <li>
-    <a href="https://github.com/glsi-iastate/.github/blob/main/profile/resources">
-      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Resources</span>
-    </a>
-    <ul>
-      <li>
-        <a href="https://github.com/glsi-iastate/.github/blob/main/profile/resources/tools">
-          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">Tools</span>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/glsi-iastate/.github/blob/main/profile/resources/references">
-          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">References</span>
-        </a>
-      </li>
-    </ul>
-  </li>
-
-  <!-- Contact -->
-  
-  <li>
-    <a href="https://github.com/glsi-iastate/.github/blob/main/profile/contact">
-      <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Contact</span>
-    </a>
-  </li>
-</ul>
 
 
 
 <div align="center">
 
 ## $${\color{#C8102E}\textbf{Introduction}}$$
+
+</div>
+
+<div align="center">
 
 ## $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$
 
@@ -87,4 +62,13 @@
 ### $${\color{#C8102E}\text{Python}}$$
 
 ### $${\color{#C8102E}\text{R}}$$
+
+
+
+
+<div align="center">
+
+## $${\color{#C8102E}\textbf{Projects}}$$
+
+</div>
 
