@@ -1,8 +1,8 @@
 <div align="center">
   
-# $${\color{#C8102E}\textbf{Geospatial Laboratory for Soil Informatics (GLSI)}}$$
+# $${\Huge\color{#C8102E}\textbf{Geospatial Laboratory for Soil Informatics (GLSI)}}$$
 
-## $${\color{#C8102E}\textbf{Table of Contents}}$$
+# $${\color{#C8102E}\textbf{Table of Contents}}$$
 
 
 </div>
@@ -49,17 +49,17 @@
 
 <div align="center">
 
-## $${\color{#C8102E}\textbf{Introduction}}$$
+# $${\color{#C8102E}\textbf{Introduction}}$$
 
 </div>
 
 <div align="center">
 
-## $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$
+# $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$
 
 </div>
 
-### $${\color{#C8102E}\textbf{GLSIpy}}$$
+## $${\color{#C8102E}\textbf{GLSIpy}}$$
 
 #### $${\color{#C8102E}\textbf{Mapping}}$$
 
