@@ -9,6 +9,10 @@
   - [Python](#colorc8102etextpython)
   - [R](#colorc8102etextr)
 
+<a href="#colorc8102etextr">
+<span style="font-size: 3em; color: #C8102E; font-weight: bold;">R</span>
+</a>
+
 - [$${\Huge\color{#C8102E}\textbf{\text{Example}}}$$](example)
 
 <div align="center">
