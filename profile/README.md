@@ -13,6 +13,12 @@
 <span style="font-size: 3em; color: #C8102E; font-weight: bold;">R</span>
 </a>
 
+<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <a href="#colorc8102etextr">
+    <text x="50%" y="55%" font-size="60" fill="#C8102E" font-weight="bold" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle">Example</text>
+  </a>
+</svg>
+
 - [$${\Huge\color{#C8102E}\textbf{\text{Example}}}$$](example)
 
 <div align="center">
