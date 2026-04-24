@@ -9,35 +9,46 @@
   - [Python](#colorc8102etextpython)
   - [R](#colorc8102etextr)
  
- 
+
+
+<!-- Introduction -->
 <ul>
   <li>
-    <a href="https://github.com/glsi-iastate/.github/blob/main/profile/introduction">
+    <a href="#colorc8102etextbfintroduction">
       <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Introduction</span>
     </a>
   </li>
+
+  <!-- Packages and Toolboxes -->
+  
   <li>
-    <a href="https://github.com/glsi-iastate/.github/blob/main/profile/example">
-      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Example Section</span>
+    <a href="#colorc8102etextbfpackages-and-toolboxes">
+      <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Packages and Toolboxes</span>
     </a>
     <ul>
       <li>
-        <a href="https://github.com/glsi-iastate/.github/blob/main/profile/example/subitem-one">
-          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">Subitem One</span>
+        <a href="#colorc8102etextpython">
+          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">Python</span>
         </a>
       </li>
       <li>
-        <a href="https://github.com/glsi-iastate/.github/blob/main/profile/example/subitem-two">
-          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">Subitem Two</span>
+        <a href="#colorc8102etextr">
+          <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">R</span>
         </a>
       </li>
     </ul>
   </li>
+
+  <!-- Projects -->
+  
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/projects">
       <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Projects</span>
     </a>
   </li>
+
+  <!-- Resources -->
+  
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/resources">
       <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Resources</span>
@@ -55,6 +66,9 @@
       </li>
     </ul>
   </li>
+
+  <!-- Contact -->
+  
   <li>
     <a href="https://github.com/glsi-iastate/.github/blob/main/profile/contact">
       <span style="font-size: 2em; color: #C8102E; font-weight: bold;">Contact</span>
@@ -63,6 +77,8 @@
 </ul>
 
 <div align="center">
+
+## $${\color{#C8102E}\textbf{Introduction}}$$
 
 ## $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$
 
