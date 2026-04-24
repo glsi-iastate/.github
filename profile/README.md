@@ -2,8 +2,9 @@
   
 # $${\huge\color{#C8102E}\textbf{Geospatial Laboratory for Soil Informatics}}$$
 
-# $${\color{#C8102E}\textbf{Table of Contents}}$$
+<!-- # $${\color{#C8102E}\textbf{Table of Contents}}$$ -->
 
+# Table of Contents
 
 </div>
 
