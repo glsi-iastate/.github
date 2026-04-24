@@ -9,6 +9,7 @@
   - [Python](#colorc8102etextpython)
   - [R](#colorc8102etextr)
 
+- [$${\Huge\color{#C8102E}\textbf{\text{Example}}}$$](example)
 
 <div align="center">
 
