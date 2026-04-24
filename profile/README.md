@@ -61,17 +61,17 @@
 
 ## $${\color{#C8102E}\textbf{GLSIpy}}$$
 
-#### $${\color{#C8102E}\textbf{Mapping}}$$
+### $${\color{#C8102E}\textbf{Mapping}}$$
 
-#### $${\color{#C8102E}\textbf{Soil Chemistry}}$$
+### $${\color{#C8102E}\textbf{Soil Chemistry}}$$
 
-#### $${\color{#C8102E}\textbf{Statistics}}$$
-
-
+### $${\color{#C8102E}\textbf{Statistics}}$$
 
 
 
-### $${\color{#C8102E}\textbf{R}}$$
+
+
+## $${\color{#C8102E}\textbf{R}}$$
 
 
 
