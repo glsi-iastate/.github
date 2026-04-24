@@ -2,14 +2,10 @@
   
 # $${\color{#C8102E}\textbf{Geospatial Laboratory for Soil Informatics (GLSI)}}$$
 
+## $${\color{#C8102E}\textbf{Table of Contents}}$$
+
+
 </div>
-
-
-- [Packages and Toolboxes](#colorc8102etextbfpackages-and-toolboxes)
-  - [Python](#colorc8102etextpython)
-  - [R](#colorc8102etextr)
- 
-
 
 <!-- Introduction -->
 <ul>
