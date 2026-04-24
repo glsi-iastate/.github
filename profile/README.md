@@ -13,7 +13,7 @@
 <!-- Introduction -->
 <ul>
   <li>
-    <a href="#colorc8102etextbfintroduction">
+    <a href="introduction">
       <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Introduction</span>
     </a>
   </li>
@@ -21,17 +21,17 @@
   <!-- Packages and Toolboxes -->
   
   <li>
-    <a href="#colorc8102etextbfpackages-and-toolboxes">
+    <a href="packages-and-toolboxes">
       <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Packages and Toolboxes</span>
     </a>
     <ul>
       <li>
-        <a href="#colorc8102etextbfglsipy">
+        <a href="glsipy">
           <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">GLSIpy</span>
         </a>
       </li>
       <li>
-        <a href="#colorc8102etextbfr">
+        <a href="r">
           <span style="font-size: 1.25em; color: #C8102E; font-weight: bold;">R</span>
         </a>
       </li>
@@ -41,7 +41,7 @@
   <!-- Projects -->
   
   <li>
-    <a href="#colorc8102etextbfprojects">
+    <a href="projects">
       <span style="font-size: 2.5em; color: #C8102E; font-weight: bold;">Projects</span>
     </a>
   </li>
@@ -50,36 +50,49 @@
 
 <div align="center">
 
-# $${\color{#C8102E}\textbf{Introduction}}$$
+<!-- # $${\color{#C8102E}\textbf{Introduction}}$$ -->
+
+# Introduction
 
 </div>
 
 <div align="center">
 
-# $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$
+<!-- # $${\color{#C8102E}\textbf{Packages and Toolboxes}}$$ -->
+
+# Packages and Toolboxes
 
 </div>
 
-## $${\color{#C8102E}\textbf{GLSIpy}}$$
+<!-- ## $${\color{#C8102E}\textbf{GLSIpy}}$$ -->
 
-### $${\color{#C8102E}\textbf{Mapping}}$$
+## GLSIpy
 
-### $${\color{#C8102E}\textbf{Soil Chemistry}}$$
+<!-- ### $${\color{#C8102E}\textbf{Mapping}}$$ -->
 
-### $${\color{#C8102E}\textbf{Statistics}}$$
+### Mapping
+
+<!-- ### $${\color{#C8102E}\textbf{Soil Chemistry}}$$ -->
+
+### Soil Chemistry
+
+<!-- ### $${\color{#C8102E}\textbf{Statistics}}$$ -->
+
+### Statistics
 
 
+<!-- ## $${\color{#C8102E}\textbf{R}}$$ -->
 
-
-
-## $${\color{#C8102E}\textbf{R}}$$
+## R
 
 
 
 
 <div align="center">
 
-## $${\color{#C8102E}\textbf{Projects}}$$
+<!-- ## $${\color{#C8102E}\textbf{Projects}}$$ -->
+
+## Projects
 
 </div>
 
